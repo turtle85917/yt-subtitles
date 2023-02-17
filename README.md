@@ -12,7 +12,7 @@ youtubeSubtitles("video id").then(data => {
 
 ## Returns
 
-`Text`[] - *Result*
+`Text`[][] - *Result*
 
 ### Text - *Object*
 - start: `number`
@@ -22,3 +22,6 @@ youtubeSubtitles("video id").then(data => {
 ### Font - *Object*
 - color: `string`
 - content: `string`
+
+# Origin
+algolia - [youtube-captions-scraper](https://www.npmjs.com/package/youtube-captions-scraper)
