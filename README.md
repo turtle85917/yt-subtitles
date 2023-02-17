@@ -15,9 +15,9 @@ youtubeSubtitles("video id").then(data => {
 `Text`[] - *Result*
 
 ### Text - *Object*
-- start: `number`;
-- duration: `number`;
-- font: `Font`[];
+- start: `number`
+- duration: `number`
+- font: `Font`[]
 
 ### Font - *Object*
 - color: `string`

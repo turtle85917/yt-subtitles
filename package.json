@@ -2,7 +2,7 @@
   "name": "yt-subtitles",
   "version": "1.0.0",
   "description": "Get subtitles from YouTube videos.",
-  "main": "dist/index.ts",
+  "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
     "start": "npx ts-node test/index.ts",
